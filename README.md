@@ -23,9 +23,12 @@ It showcases my projects, skills, and contact information in a clean and profess
 
 ## 🖼️ Preview
 
-<img width="1897" height="862" alt="Afthab's Porfolio" src="https://github.com/user-attachments/assets/95b4c422-a2ca-46d7-b85c-614f693a1590" />
+<img width="1897" height="862" alt="Afthab's Porfolio" src="https://github.com/user-attachments/assets/f96924c9-c2ee-49be-8ff2-bed588031156" />
 
 ---
+
+
+
 
 ## 🛠️ Technologies Used
 
