@@ -1,6 +1,5 @@
 var typed = new Typed('#element', {
-            strings: ['<i>Web</i> developer','<div>&amp;<i> UI/UX</i> designer'],
+            strings: ['<i>Frontend</i> developer','<div>&amp;<i>Tech</i> Enthusiast'],
             typeSpeed: 50,
             loop: true
         });
-
